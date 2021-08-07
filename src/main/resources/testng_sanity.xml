@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pet Application Test Automation Suite">
+	<test name="Pet App Test Cases">
+		<classes>
+			<class name="com.pet.qa.testcases.OwnerFindPageTest"></class>
+			<class name="com.pet.qa.testcases.HomePageTest"></class>
+		</classes>
+	</test>
+</suite>
