@@ -1,4 +1,4 @@
-## Test automation framework for Pet Clinic application using Selenium with Java, TestNG and Maven using Page Object model
+## Test automation Page Object model framework for Pet Clinic application using Selenium with Java, TestNG and Maven
 
 Dependency
 Java
